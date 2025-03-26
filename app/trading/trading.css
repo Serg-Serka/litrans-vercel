@@ -1,0 +1,36 @@
+.trading-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
+.intro-text-section {
+    margin-top: 20px;
+}
+
+.intro-text,
+.additional-text {
+    max-width: 1276px;
+    margin-bottom: 20px;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.page-title {
+    font-size: 32px;
+}
+
+.image-section {
+    margin: 20px 0;
+}
+
+.full-width-image-wrapper {
+    position: relative;
+    width: 100vw;
+    height: 65vh; /* Adjust height as needed */
+}
+
+.full-width-image {
+    object-fit: cover; /* Ensures proper scaling */
+}
