@@ -27,7 +27,7 @@ export default function TradingPage() {
       <section className="image-section">
         <div className="full-width-image-wrapper">
           <Image
-            src="/images/home2.png"
+            src="/images/home.png"
             alt="Trading"
             className="full-width-image"
             fill
