@@ -1,0 +1,29 @@
+{
+  "navigation": {
+    "home": "Pagrindinis puslapis",
+    "trading": "Prekyba",
+    "logistic": "Logistika",
+    "contact": "Kontaktai"
+  },
+  "tradingPage": {
+    "title": "Prekyba",
+    "introText1": "UAB \"Litrans\"",
+    "introText2": "Yra patikimas partneris, užtikrinantis sklandžią prekybą oleochemijos pramonės produktais, gaminamais Ukrainos ir Europos gamyklose.",
+    "introText3": "Ilgametė patirtis ir profesionalų komanda leidžia mums užtikrinti aukštą produktų kokybę, tikslius pristatymų terminus ir individualų požiūrį į kiekvieną klientą.",
+    "introText4": "Peržiūrėkite visą mūsų produktų asortimentą svetainėje ir įsitikinkite, kad „Litrans“ yra tas pasirinkimas, kuris padidins jūsų verslo efektyvumą.",
+    "additionalText": "Тут також буде текст",
+    "uco": "Yuko - alyvos atliekos",
+    "vegOils": "Augaliniai aliejai",
+    "fattyAcids": "Riebalų rūgštys"
+  },
+  "contactPage": {
+    "contactUs": "Susisiekite su mumis",
+    "contactText": "Galite užpildyti formą arba išsiųsti el",
+    "formName": "Tavo Vardas",
+    "formEmail": "Jūsų el. pašto adresas",
+    "formMobile": "Jūsų mobiliojo telefono numeris",
+    "formMessage": "Jūsų žinutė",
+    "formSend": "Siųsti žinutę"
+  },
+  "language": "Kalba"
+}

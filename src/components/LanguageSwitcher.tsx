@@ -17,6 +17,7 @@ const LanguageSwitcher = () => {
   const languages = [
     {code: "us", label: "EN"},
     {code: "ua", label: "УКР"},
+    {code: "lt", label: "LT"},
   ];
 
   const [isOpen, setIsOpen] = useState(false);
