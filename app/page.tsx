@@ -43,9 +43,9 @@ export default function TradingPage() {
             justifyContent: "space-around",
             width: "80%", // Adjust width as needed
           }}>
-            <TransparentCard title="50+" subtitle="FACTORIES"/>
-            <TransparentCard title="5000+" subtitle="MT PER MONTH"/>
-            <TransparentCard title="14" subtitle="COUNTRIES WHERE WE WORK"/>
+            <TransparentCard title="50+" subtitle={t("tradingPage.factories")}/>
+            <TransparentCard title="5000+" subtitle={t("tradingPage.mtPerMonth")}/>
+            <TransparentCard title="14" subtitle={t("tradingPage.countriesWork")}/>
           </div>
         </div>
       </section>

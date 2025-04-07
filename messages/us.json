@@ -14,7 +14,10 @@
     "additionalText": "Some text will be here also",
     "uco": "UCO - Used Cooking Oil",
     "vegOils": "Vegetable Oils",
-    "fattyAcids": "Fatty acids"
+    "fattyAcids": "Fatty acids",
+    "factories": "FACTORIES",
+    "mtPerMonth": "MT PER MONTH",
+    "countriesWork": "COUNTRIES WHERE WE WORK"
   },
   "contactPage": {
     "contactUs": "Contact Us",
