@@ -26,14 +26,14 @@ export default function TradingPage() {
       </section>
       <section className="image-section">
         <div className="full-width-image-wrapper">
-          <Image
-            src="/images/home.png"
-            alt="Trading"
-            className="full-width-image"
-            fill
-            priority
-            objectFit="cover"
-          />
+          {/*<Image*/}
+          {/*  src="/images/home.png"*/}
+          {/*  alt="Trading"*/}
+          {/*  className="full-width-image"*/}
+          {/*  fill*/}
+          {/*  priority*/}
+          {/*  objectFit="cover"*/}
+          {/*/>*/}
           <div style={{
             position: "absolute",
             top: "30%", // Center vertically

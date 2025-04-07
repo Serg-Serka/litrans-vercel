@@ -28,7 +28,11 @@
 .full-width-image-wrapper {
     position: relative;
     width: 100vw;
-    height: 65vh; /* Adjust height as needed */
+    height: 50vh; /* Adjust height as needed */
+    background-size: cover;
+    background-position: center;
+    background-image: url('../../public/images/home.png');
+    display: flex;
 }
 
 .full-width-image {
