@@ -12,9 +12,9 @@ const Header = () => {
 
   return (
     <header className="flex justify-between items-center bg-white shadow-md header">
-      <nav className="flex gap-4 p-20">
+      <nav className="flex gap-4">
         <button
-          className="flex items-center px-3 py-2 border rounded-md shadow-md"
+          className="flex items-center border rounded-md shadow-md header-button"
           >
           <Link href="/" className={pathname === "/" ? "nav-link-selected-text" : "nav-link-text"} style={{ alignItems: 'center' }}>
             <Image
@@ -29,7 +29,7 @@ const Header = () => {
         </button>
 
       </nav>
-      <nav className="flex gap-4" style={{ alignItems: "center" }}>
+      <nav className="flex gap-4 header-container">
         <Link href="/contact" className={pathname === "/contact" ? "nav-link-selected-text" : "nav-link-text"}>{t("navigation.contact")}</Link>
         <LanguageSwitcher />
       </nav>
